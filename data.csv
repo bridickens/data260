@@ -1,20 +1,14 @@
-units
-7.29
-4.97
-7.43
-12.51
-14.04
-6.82
-3.99
-6.8
-0.76
-1.76
-10.02
-4.26
-1.36
-32.85
-32.85
-19.5
-5.79
-1
-4
+group,var1,var2
+Nintendo Switch,12,14
+SNES,23,1
+NES,4,2
+Nintendo 64,8,2
+Nintendo DS,9,2
+Nintendo 3DS,10,5
+GameCube,2,3
+GameBoy Advance,3,3
+GameBoy Color,12,3
+Phillips CD-i,22,2
+Wii,3,3
+WiiU,3,3
+GameBoy,1 1
